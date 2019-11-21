@@ -1,0 +1,3 @@
+/home/ros-industrial/Downloads/Connected_robotics/visual_marker_position_6d_estimation/build/CMakeFiles/rebuild_cache.dir
+/home/ros-industrial/Downloads/Connected_robotics/visual_marker_position_6d_estimation/build/CMakeFiles/visual_marker_6d_position_estimation.dir
+/home/ros-industrial/Downloads/Connected_robotics/visual_marker_position_6d_estimation/build/CMakeFiles/edit_cache.dir

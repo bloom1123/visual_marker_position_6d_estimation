@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/cameraCalibration.h
+opencv2/opencv.hpp
+-
+vector
+-
+iostream
+-
+string
+-
+
+/home/ros-industrial/Downloads/Connected_robotics/visual_marker_position_6d_estimation/src/main.cpp
+cameraCalibration.h
+/home/ros-industrial/Downloads/Connected_robotics/visual_marker_position_6d_estimation/src/cameraCalibration.h
+opencv2/aruco.hpp
+-
+
